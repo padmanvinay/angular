@@ -1,0 +1,22 @@
+.main-div
+{
+    display: flex;
+    align-items: center;
+    background-color: grey;
+}
+.sub-div
+{
+    align-items: center;
+    margin-left: 1180px;
+    white-space:nowrap;
+}
+.ul-div
+{
+    
+    display: flex;
+    list-style: none;
+}
+.ul-div>li
+{
+    padding: 5px;
+}
